@@ -45,7 +45,7 @@
 ## 👩‍⚕️ Author
 
 Developed by **Nuhansa Herath**  
-Biomedical Engineering (BEng Hons) Final Year Research Project  
+(BEng Hons)Biomedical Engineering - Final Year Research Project  
 2025 – London Metropolitan University
 
 
